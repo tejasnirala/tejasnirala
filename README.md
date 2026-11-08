@@ -16,79 +16,82 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-# TEJAS NIRALA
+# `tejas_nirala.exe`
 
-**Software Engineer · Full-stack Developer · Builder**
+### PLAYER 01 — SOFTWARE ENGINEER
 
-I build thoughtful software, from polished interfaces to the systems behind them.
+**Building things. Breaking assumptions. Learning as I go.**
 
-[Website](https://tejas.niralas.in) · [GitHub](https://github.com/tejasnirala)
+<img src="https://img.shields.io/badge/CLASS-FULL--STACK_ENGINEER-171923?style=for-the-badge&labelColor=252b43" />
 
-<img src="https://img.shields.io/github/followers/tejasnirala?style=flat&label=followers&labelColor=161b22&color=00d6bd" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-171923?style=for-the-badge&labelColor=087f70" />
 
-<img src="https://img.shields.io/github/stars/tejasnirala?style=flat&label=stars&labelColor=161b22&color=00d6bd" alt="GitHub stars" />
+[🌐 Website](https://tejas.niralas.in) · [💻 GitHub](https://github.com/tejasnirala)
 
 </div>
 
 ---
 
-### 01 / THE PERSON
+## ▸ PLAYER PROFILE
+Hey, I'm **Tejas** — a software engineer with around **3 years of professional experience**.
 
-I'm a software engineer with around **3 years of professional experience**, working across frontend and backend development.
+I work across frontend and backend, and I enjoy building products that feel simple on the surface and are thoughtfully engineered underneath.
 
-I enjoy turning complex requirements into reliable, maintainable products — whether that's building a clean user experience, designing an API, or thinking through how a system should scale.
+```text
+PLAYER      Tejas Nirala
+ROLE        Software Engineer
+SPECIALITY  Full-stack development
+CURRENT     Building Stowwd
+INTERESTS   Product engineering · Security · Systems
+```
 
-Currently exploring the intersection of **product engineering, application security, and cross-platform development**.
+## ▸ ACTIVE QUEST
 
-### 02 / CURRENTLY BUILDING
+### 🔐 STOWWD — Password & Credential Manager
 
-<table>
-  
-  <tr>
-    <td width="100%">
-      <h3>🔐 Stowwd</h3>
-      A password and credential management product focused on secure storage, thoughtful user experience, and cross-platform access.
-      <br /><br />
-      <b>Exploring:</b> zero-knowledge architecture · encryption · secure sync · native applications
-    </td>
-  </tr>
-</table>
+A personal product I'm building around a simple idea: secure credential management should be powerful without feeling complicated.
 
-### 03 / THE TOOLKIT
+**Quest objectives**
+- Zero-knowledge security architecture
+- Encryption and key management
+- Secure synchronization across devices
+- Cross-platform application experience
 
-| Area | Tools |
+## ▸ SKILL INVENTORY
+
+| Category | Equipped tools |
 |---|---|
-| Frontend | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
-| Backend | Node.js · Express · Go |
-| Data & messaging | PostgreSQL · MongoDB · Redis · RabbitMQ · BullMQ |
-| Infrastructure | Docker · Nginx · AWS · GitHub Actions |
-| Testing | Jest · Cypress |
+| Frontend | TypeScript, JavaScript, React, Next.js |
+| Backend | Node.js, Express, Go |
+| Database | PostgreSQL, MongoDB, Redis |
+| Async systems | RabbitMQ, BullMQ |
+| Infrastructure | Docker, Nginx, AWS, GitHub Actions |
+| Testing | Jest, Cypress |
 
-I care more about choosing the right tool for the problem than collecting tools for the sake of it.
+## ▸ PASSIVE ABILITIES
+- Designing maintainable APIs and application architecture.
+- Building reusable frontend systems and responsive interfaces.
+- Understanding performance, security, and scalability trade-offs.
+- Learning unfamiliar technologies by building real things.
 
-### 04 / HOW I THINK
-- **Product-minded engineering** — build for the person using the software.
-- **Simplicity over cleverness** — understandable systems are easier to maintain.
-- **Security by design** — treat security as an architectural concern, not a final checklist.
-- **Keep learning** — explore new tools, understand their trade-offs, and share what works.
-
-### 05 / THE CONTRIBUTION TRAIL
-
+## ▸ WORLD MAP — CONTRIBUTIONS
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=tejasnirala&theme=github-dark&mode=light" width="100%" alt="Tejas Nirala's GitHub contribution heatmap" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tejasnirala&theme=github-dark&mode=light" width="100%" alt="GitHub contribution map" />
 </p>
-
 <p align="center">
-  <sub>Every contribution is a small step in a longer journey.</sub>
+  <sub>XP is earned one commit at a time.</sub>
 </p>
 
 ---
 
 <div align="center">
-  
-**Have an interesting problem to solve? Let's connect.**
-[Website](https://tejas.niralas.in) · [GitHub](https://github.com/tejasnirala)
 
-<sub>Built with curiosity, shipped with care.</sub>
+  ### READY FOR THE NEXT QUEST?
+
+I'm always interested in good engineering conversations and meaningful problems.
+
+[VISIT WEBSITE](https://tejas.niralas.in) · [VIEW GITHUB](https://github.com/tejasnirala)
+
+<sub>GAME OVER? Nah. Just another checkpoint.</sub>
 
 </div>
