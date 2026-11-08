@@ -15,83 +15,61 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  
-# `tejas_nirala.exe`
-
-### PLAYER 01 — SOFTWARE ENGINEER
-
-**Building things. Breaking assumptions. Learning as I go.**
-
-<img src="https://img.shields.io/badge/CLASS-FULL--STACK_ENGINEER-171923?style=for-the-badge&labelColor=252b43" />
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-171923?style=for-the-badge&labelColor=087f70" />
-
-[🌐 Website](https://tejas.niralas.in) · [💻 GitHub](https://github.com/tejasnirala)
-
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td align="center" width="42%" valign="middle">
+        <img src="./code-pet.gif" width="320" alt="animated pixel code pet" />
+      </td>
+      <td width="58%" valign="middle">
+        <h3><code>CODE PET · TYPESCRIPT TYPE</code></h3>
+        <h1>Curious, always.</h1>
+        <p><em>Building things, learning things. Could use a commit.</em></p>
+        <br />
+        <table border="0" cellpadding="5" cellspacing="0" width="100%">
+          <tr>
+            <td width="24%"><strong>MOOD</strong></td>
+            <td>▰ ▰ ▰ ▰ ▰ ▰ ▰ ▱ ▱ ▱</td>
+          </tr>
+          <tr>
+            <td><strong>FOCUS</strong></td>
+            <td>Stowwd · product engineering</td>
+          </tr>
+          <tr>
+            <td><strong>LEVEL</strong></td>
+            <td>~3 years building software</td>
+          </tr>
+        </table>
+        <p><sub>Fueled by curiosity and commits.</sub></p>
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
-
-## ▸ PLAYER PROFILE
-Hey, I'm **Tejas** — a software engineer with around **3 years of professional experience**.
-
-I work across frontend and backend, and I enjoy building products that feel simple on the surface and are thoughtfully engineered underneath.
-
-```text
-PLAYER      Tejas Nirala
-ROLE        Software Engineer
-SPECIALITY  Full-stack development
-CURRENT     Building Stowwd
-INTERESTS   Product engineering · Security · Systems
-```
-
-## ▸ ACTIVE QUEST
-
-### 🔐 STOWWD — Password & Credential Manager
-
-A personal product I'm building around a simple idea: secure credential management should be powerful without feeling complicated.
-
-**Quest objectives**
-- Zero-knowledge security architecture
-- Encryption and key management
-- Secure synchronization across devices
-- Cross-platform application experience
-
-## ▸ SKILL INVENTORY
-
-| Category | Equipped tools |
-|---|---|
-| Frontend | TypeScript, JavaScript, React, Next.js |
-| Backend | Node.js, Express, Go |
-| Database | PostgreSQL, MongoDB, Redis |
-| Async systems | RabbitMQ, BullMQ |
-| Infrastructure | Docker, Nginx, AWS, GitHub Actions |
-| Testing | Jest, Cypress |
-
-## ▸ PASSIVE ABILITIES
-- Designing maintainable APIs and application architecture.
-- Building reusable frontend systems and responsive interfaces.
-- Understanding performance, security, and scalability trade-offs.
-- Learning unfamiliar technologies by building real things.
-
-## ▸ WORLD MAP — CONTRIBUTIONS
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=tejasnirala&theme=github-dark&mode=light" width="100%" alt="GitHub contribution map" />
+<h2>Hey, I'm Tejas.</h2>
+<p>I'm a software engineer with around <strong>3 years of professional experience</strong>, working across frontend and backend development. I enjoy turning complex problems into reliable products — from polished interfaces to the systems that power them.</p>
+<p>Currently building <strong>Stowwd</strong>, a password and credential manager, and exploring secure architecture, application security, and cross-platform development.</p>
+<p>
+  <a href="https://github.com/tejasnirala">GitHub</a> ·
+  <a href="https://tejas.niralas.in">Website</a>
 </p>
+<h2>Currently building</h2>
+<h3>🔐 Stowwd</h3>
+<p>A password and credential management product focused on secure storage, thoughtful user experience, and cross-platform access.</p>
+<p><code>zero-knowledge architecture</code> · <code>encryption</code> · <code>secure sync</code> · <code>native apps</code></p>
+<h2>My toolkit</h2>
 <p align="center">
-  <sub>XP is earned one commit at a time.</sub>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,go,postgres,mongodb,redis,docker,nginx,aws,git,github&perline=8" alt="Technologies: TypeScript, JavaScript, React, Next.js, Node.js, Express, Go, PostgreSQL, MongoDB, Redis, Docker, Nginx, AWS, Git and GitHub" />
 </p>
-
+<h2>GitHub activity</h2>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tejasnirala&theme=github-dark&mode=light" width="100%" alt="Tejas Nirala's GitHub contribution activity" />
+</p>
 ---
-
 <div align="center">
-
-  ### READY FOR THE NEXT QUEST?
-
-I'm always interested in good engineering conversations and meaningful problems.
-
-[VISIT WEBSITE](https://tejas.niralas.in) · [VIEW GITHUB](https://github.com/tejasnirala)
-
-<sub>GAME OVER? Nah. Just another checkpoint.</sub>
-
+  <h3>Have something interesting to build?</h3>
+  <p>Let's connect and make it happen.</p>
+  <a href="https://github.com/tejasnirala">GitHub</a> ·
+  <a href="https://tejas.niralas.in">Website</a>
+  <br /><br />
+  <sub>Code pet fed by real contributions · made with curiosity.</sub>
 </div>
