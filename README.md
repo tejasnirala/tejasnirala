@@ -14,36 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" width="42%" valign="middle">
-        <img src="./code-pet.gif" width="320" alt="animated pixel code pet" />
-      </td>
-      <td width="58%" valign="middle">
-        <h3><code>CODE PET · TYPESCRIPT TYPE</code></h3>
-        <h1>Curious, always.</h1>
-        <p><em>Building things, learning things. Could use a commit.</em></p>
-        <br />
-        <table border="0" cellpadding="5" cellspacing="0" width="100%">
-          <tr>
-            <td width="24%"><strong>MOOD</strong></td>
-            <td>▰ ▰ ▰ ▰ ▰ ▰ ▰ ▱ ▱ ▱</td>
-          </tr>
-          <tr>
-            <td><strong>FOCUS</strong></td>
-            <td>▰ ▰ ▰ ▰ ▰ ▰ ▰ ▱ ▱ ▱</td>
-          </tr>
-          <tr>
-            <td><strong>LEVEL</strong></td>
-            <td>▰ ▰ ▰ ▰ ▰ ▰ ▰ ▱ ▱ ▱</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
----
+
 <h2>Hey, I'm Tejas.</h2>
 <p>I'm a software engineer with around <strong>3 years of professional experience</strong>, working across frontend and backend development. I enjoy turning complex problems into reliable products — from polished interfaces to the systems that power them.</p>
 
@@ -56,6 +27,4 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>Have something interesting to build?</h3>
   <p>Let's connect and make it happen.</p>
-  <a href="https://github.com/tejasnirala">GitHub</a> ·
-  <a href="https://tejas.niralas.in">Website</a>
 </div>
