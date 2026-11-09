@@ -39,7 +39,6 @@ Here are some ideas to get you started:
             <td>~3 years building software</td>
           </tr>
         </table>
-        <p><sub>Fueled by curiosity and commits.</sub></p>
       </td>
     </tr>
   </table>
@@ -47,29 +46,16 @@ Here are some ideas to get you started:
 ---
 <h2>Hey, I'm Tejas.</h2>
 <p>I'm a software engineer with around <strong>3 years of professional experience</strong>, working across frontend and backend development. I enjoy turning complex problems into reliable products — from polished interfaces to the systems that power them.</p>
-<p>Currently building <strong>Stowwd</strong>, a password and credential manager, and exploring secure architecture, application security, and cross-platform development.</p>
-<p>
-  <a href="https://github.com/tejasnirala">GitHub</a> ·
-  <a href="https://tejas.niralas.in">Website</a>
-</p>
+
 <h2>Currently building</h2>
 <h3>🔐 Stowwd</h3>
 <p>A password and credential management product focused on secure storage, thoughtful user experience, and cross-platform access.</p>
 <p><code>zero-knowledge architecture</code> · <code>encryption</code> · <code>secure sync</code> · <code>native apps</code></p>
-<h2>My toolkit</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,go,postgres,mongodb,redis,docker,nginx,aws,git,github&perline=8" alt="Technologies: TypeScript, JavaScript, React, Next.js, Node.js, Express, Go, PostgreSQL, MongoDB, Redis, Docker, Nginx, AWS, Git and GitHub" />
-</p>
-<h2>GitHub activity</h2>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=tejasnirala&theme=github-dark&mode=light" width="100%" alt="Tejas Nirala's GitHub contribution activity" />
-</p>
+
 ---
 <div align="center">
   <h3>Have something interesting to build?</h3>
   <p>Let's connect and make it happen.</p>
   <a href="https://github.com/tejasnirala">GitHub</a> ·
   <a href="https://tejas.niralas.in">Website</a>
-  <br /><br />
-  <sub>Code pet fed by real contributions · made with curiosity.</sub>
 </div>
