@@ -32,11 +32,11 @@ Here are some ideas to get you started:
           </tr>
           <tr>
             <td><strong>FOCUS</strong></td>
-            <td>Stowwd · product engineering</td>
+            <td>▰ ▰ ▰ ▰ ▰ ▰ ▰ ▱ ▱ ▱</td>
           </tr>
           <tr>
             <td><strong>LEVEL</strong></td>
-            <td>~3 years building software</td>
+            <td>~▰ ▰ ▰ ▰ ▰ ▰ ▰ ▱ ▱ ▱</td>
           </tr>
         </table>
       </td>
