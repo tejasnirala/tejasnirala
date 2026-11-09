@@ -36,7 +36,7 @@ Here are some ideas to get you started:
           </tr>
           <tr>
             <td><strong>LEVEL</strong></td>
-            <td>~▰ ▰ ▰ ▰ ▰ ▰ ▰ ▱ ▱ ▱</td>
+            <td>▰ ▰ ▰ ▰ ▰ ▰ ▰ ▱ ▱ ▱</td>
           </tr>
         </table>
       </td>
