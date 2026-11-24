@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <h2>Hey, I'm Tejas.</h2>
 <p>I'm a software engineer with around <strong>3 years of professional experience</strong>, working across frontend and backend development. I enjoy turning complex problems into reliable products — from polished interfaces to the systems that power them.</p>
 
-<h2>Currently building</h2>
+<!-- <h2>Currently building</h2>
 <h3>🔐 Stowwd</h3>
 <p>A password and credential management product focused on secure storage, thoughtful user experience, and cross-platform access.</p>
-<p><code>zero-knowledge architecture</code> · <code>encryption</code> · <code>secure sync</code> · <code>native apps</code></p>
+<p><code>zero-knowledge architecture</code> · <code>encryption</code> · <code>secure sync</code> · <code>native apps</code></p> -->
 
 ---
 <div align="center">
